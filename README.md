@@ -1,6 +1,11 @@
 # icpc-contest-online-judge
 
-使用时直接 bash setup.sh
+```
+apt install python3
+pip3 install flask
+```
+
+使用时直接 bash setup.sh ， 浏览器 局域网ip:5000 访问
 
 在 start_time_and_finish_time 按样例格式写起始时间和结束时间
 
